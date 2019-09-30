@@ -9,6 +9,6 @@ In panda_data:
 panda_id.json includes 23436 hosts information, includes room id, publish time, classification, host id, host nickname, viewers, tickets rank, tickets score, host level information(value, exp, play days, received bomboos, received gifts amount, received gifts value, vip).etc.
 
 panda_room.json includes all the video rooms information based on the 23436 host id information, 
-which includes id, fans, total ranking(room id, nickname, score), weekly ranking, popularity.etc.
+which includes id, fans, total ranking(room id, nickname, score), weekly ranking, popularity etc.
 
 
